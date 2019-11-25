@@ -1,0 +1,1 @@
+web: gunicorn digital_rescue_project.wsgi --log-file -
